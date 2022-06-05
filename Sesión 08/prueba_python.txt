@@ -1,0 +1,2 @@
+El archivo se ha creado con éxito
+Texto añadido al ejecutar el archivo ejercicio_8_1.py
